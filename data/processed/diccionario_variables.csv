@@ -1,0 +1,27 @@
+﻿variable,descripcion,fuente
+rezago,Objetivo: 1 si edad menos edad normativa del grado >= 2 años,"p208a, p308a/b/c"
+anios_retraso,"Edad menos edad normativa (primaria 5+grado, secundaria 11+grado). Solo EDA",Derivada
+area_rural,1 si estrato 6-8 (rural),ENAHO estrato
+estrato,Estrato geográfico ordinal 1 (>=500 mil hab.) a 8 (AER simple),ENAHO estrato
+quechua_aimara,1 si lengua materna quechua o aimara,p300a
+lengua_no_castellano,"1 si lengua materna es nativa u otra extranjera (códigos 1,2,3,6,7)",p300a
+altitud,Altitud del hogar (msnm),ENAHO Módulo 100
+n_tic_hogar,"Suma de teléfono fijo, celular, TV cable e internet en el hogar",p1141-p1144
+usa_internet,1 si usó internet el mes anterior,p314a
+frecuencia_internet,"0 no usa, 1 cada 2 meses o más, 2 mensual, 3 semanal, 4 diario","p314a, p314d"
+cel_propio,1 si usó teléfono celular propio,p316a1
+cel_ajeno,"1 si usó celular de familiar, trabajo, alquilado u otro","p316a2,a3,a4,a6"
+colegio_estatal,"1 si el colegio es estatal, 0 si no estatal",p308d
+log_gasto_pc,Log del gasto per cápita mensual del hogar,"gashog2d, mieperho"
+pobreza_ord,"0 no pobre, 1 pobre no extremo, 2 pobre extremo",pobreza
+esc_ratio_alum_doc,Alumnos por docente (primaria+secundaria) del distrito×área,ESCALE TALUM/TDOC
+esc_alum_por_seccion,Alumnos por sección del distrito×área,ESCALE TALUM/TSEC
+esc_pct_publica,Proporción de IE públicas (gestión 1 y 2),ESCALE GESTION
+esc_pct_ie_rural,Proporción de IE rurales,ESCALE DAREACENSO
+esc_tam_medio_ie,Alumnos promedio por IE,ESCALE
+esc_n_ie,Número de IE de primaria y secundaria,ESCALE
+esc_respaldo_distrito,1 si se usó el dato distrital por falta de distrito×área,Derivada
+estudia_otro_distrito,1 si el colegio está en otro distrito. Solo diagnóstico,p308c1
+peso_hogar,Factor de expansión del hogar,factor07_25
+es_valido_obj,1 si tiene nivel y grado válidos (primaria/secundaria),Derivada
+otra_lengua,"1 si lengua materna es otra nativa o extranjera (códigos 3,6,7)",p300a

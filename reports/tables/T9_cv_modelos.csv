@@ -1,0 +1,5 @@
+modelo,ROC-AUC,PR-AUC,F1 macro (umbral OOF),umbral
+Baseline: Reg. logística,0.694 ± 0.014,0.101 ± 0.016,0.559,0.699
+Random Forest,0.679 ± 0.018,0.098 ± 0.012,0.55,0.546
+LightGBM,0.673 ± 0.016,0.094 ± 0.007,0.551,0.684
+XGBoost,0.684 ± 0.013,0.099 ± 0.009,0.558,0.678

@@ -1,0 +1,3 @@
+Colocar aquí (no se incluyen por tamaño):
+INEI/1041-Modulo1474 (100), 1479 (200), 1475 (300), 1478 (Sumaria): CSV panel 2021-2025, codificación utf-8-sig.
+MINEDU/00_Padron/Padron.dbf (ESCALE 2025).

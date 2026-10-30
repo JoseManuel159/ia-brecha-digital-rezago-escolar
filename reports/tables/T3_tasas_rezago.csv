@@ -1,0 +1,31 @@
+variable,categoria,n,casos,tasa
+nivel,Primaria,10108,332.0,3.28
+nivel,Secundaria,9382,520.0,5.54
+area,Rural,7012,372.0,5.31
+area,Urbana,12478,480.0,3.85
+lengua,Aimara,45,0.0,0.0
+lengua,Castellano,17902,727.0,4.06
+lengua,Otra,521,61.0,11.71
+lengua,Quechua,1022,64.0,6.26
+altitud_cat,<500 m,10533,536.0,5.09
+altitud_cat,500-2500 m,3655,148.0,4.05
+altitud_cat,2500-3500 m,3324,112.0,3.37
+altitud_cat,>3500 m,1978,56.0,2.83
+pobreza_txt,No pobre,13666,481.0,3.52
+pobreza_txt,Pobre extremo,1169,92.0,7.87
+pobreza_txt,Pobre no extremo,4655,279.0,5.99
+usa_internet,0.0,5132,227.0,4.42
+usa_internet,1.0,14358,625.0,4.35
+frecuencia_internet,0.0,5132,227.0,4.42
+frecuencia_internet,1.0,3,0.0,0.0
+frecuencia_internet,2.0,103,8.0,7.77
+frecuencia_internet,3.0,2827,116.0,4.1
+frecuencia_internet,4.0,11425,501.0,4.39
+colegio,Estatal,16626,783.0,4.71
+colegio,No estatal,2858,69.0,2.41
+sexo_mujer,0.0,9933,495.0,4.98
+sexo_mujer,1.0,9557,357.0,3.74
+parentesco,Hijo/a,16407,707.0,4.31
+parentesco,Jefe,2,1.0,50.0
+parentesco,Nieto/a,2544,93.0,3.66
+parentesco,Otro,537,51.0,9.5

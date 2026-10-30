@@ -1,0 +1,4 @@
+perfil,n,pct,log_gasto_pc,esc_ratio_alum_doc,frecuencia_internet,n_tic_hogar,altitud,estrato,esc_pct_publica,miembros_hogar,anios_retraso,edad,secundaria,pobreza_ord,area_rural,quechua_aimara,colegio_estatal,casos_rezago,rezago_%,IC95_±
+Rural conectado,5168,26.5,6.112,10.899,3.707,2.136,2105.888,6.586,0.96,4.688,0.46,12.761,0.653,0.382,0.788,0.104,0.966,259,5.01,0.59
+Rural sin uso de internet,3666,18.8,5.86,11.796,0.04,1.881,1806.546,6.574,0.951,5.232,0.411,9.78,0.214,0.676,0.784,0.128,0.981,181,4.94,0.7
+Urbano conectado,10656,54.7,6.559,17.902,3.293,2.365,652.654,2.491,0.457,4.763,0.385,11.606,0.49,0.238,0.006,0.006,0.754,412,3.87,0.37

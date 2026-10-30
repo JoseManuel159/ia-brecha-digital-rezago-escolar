@@ -1,0 +1,4 @@
+modelo,PR-AUC CV (mejor),params
+XGBoost,0.1029,"{'colsample_bytree': np.float64(0.6555), 'gamma': np.float64(0.6504), 'learning_rate': np.float64(0.0537), 'max_depth': 3, 'min_child_weight': 29, 'n_estimators': 134, 'reg_lambda': np.float64(6.3428), 'subsample': np.float64(0.6478)}"
+LightGBM,0.1013,"{'colsample_bytree': np.float64(0.9436), 'learning_rate': np.float64(0.0297), 'min_child_samples': 130, 'n_estimators': 230, 'num_leaves': 4, 'reg_lambda': np.float64(16.8344), 'subsample': np.float64(0.6944)}"
+Random Forest,0.0982,"{'max_depth': 13, 'max_features': np.float64(0.2233), 'min_samples_leaf': 69, 'n_estimators': 470}"

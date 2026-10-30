@@ -1,0 +1,4 @@
+escenario,ROC-AUC CV,PR-AUC CV
+Completo (modelo final),0.686 ± 0.011,0.103 ± 0.015
+Sin cel_propio,0.680 ± 0.011,0.093 ± 0.012
+Sin cel_propio ni frecuencia_internet,0.672 ± 0.017,0.092 ± 0.012

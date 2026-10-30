@@ -1,0 +1,14 @@
+,TP,FP,FN,TN
+edad,13.57,12.48,13.93,11.46
+secundaria,0.5,0.61,0.62,0.48
+area_rural,0.75,0.6,0.29,0.32
+pobreza_ord,1.04,1.04,0.38,0.31
+quechua_aimara,0.11,0.08,0.05,0.06
+otra_lengua,0.14,0.1,0.02,0.01
+colegio_estatal,0.96,0.97,0.93,0.84
+log_gasto_pc,5.61,5.67,6.27,6.37
+miembros_hogar,7.0,6.94,5.08,4.68
+frecuencia_internet,1.96,2.34,2.76,2.82
+altitud,644.32,744.86,901.97,1260.53
+sexo_mujer,0.29,0.33,0.45,0.5
+n,28.0,196.0,123.0,3533.0
